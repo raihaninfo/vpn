@@ -12,7 +12,7 @@
 
 > AccountCreate master
 
-![](1.png)
+![](images/1.png)
 
 > AccountPassword master
 
@@ -20,9 +20,9 @@
 
 > AccountList
 
-![](2.png)
+![](images/2.png)
 
 >> FREE CLIENT SERVER > https://www.vpngate.net/en/
 
-![](2.png)
+![](images/3.png)
 
