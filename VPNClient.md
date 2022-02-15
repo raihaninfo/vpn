@@ -22,7 +22,7 @@
 
 ![](images/2.png)
 
->> FREE CLIENT SERVER > https://www.vpngate.net/en/
+>> FREE CLIENT SERVER >> https://www.vpngate.net/en/
 
 ![](images/3.png)
 
